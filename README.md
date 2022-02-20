@@ -3,4 +3,7 @@ Desafio de Programação para Academia da Capgemini.
 
 A solução desses desafios foi feita utilizando o VSCODE como IDE, Sendo que foi criado 3 projetos MAVEN com Java 11.
 
-Após construção do codigo, foi executado testes e validado a solução.
+Então foram construidos os codigos assim como executado os testes e validação das soluções.
+
+Após isso foi extraido somente o arquivo app, renomeado para cada questão correspondente e feito upload para o GITHUB.
+
